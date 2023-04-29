@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run Map_Your_Health.py
